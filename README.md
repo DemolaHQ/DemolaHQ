@@ -2,7 +2,7 @@
 - 👀 I’m interested in building applications
 - 🌱 I’m currently learning LLMs
 - 💞️ I’m looking to collaborate on all things tech
-- 📫 How to reach me ademola@brydge.hq
+- 📫 How to reach me ademola@brydgehq.co
 
 <!---
 DemolaHQ/DemolaHQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
